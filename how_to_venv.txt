@@ -1,0 +1,10 @@
+1. navigate to directory where you want to create virtual environment
+
+2. creating
+	$ python -m venv venv_name
+
+3. entering virtual environment
+	$ .\venv_name\Scripts\activate
+
+4. exiting virtual environment
+	$ deactivate
